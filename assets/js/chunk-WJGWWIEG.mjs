@@ -1,0 +1,2 @@
+function t(a,e){return{description:"Introducing Waitlister - the premium framer template to help you launch your very own waitlist, grow your mailing list all while building the hype for launch day.",favicon:"https://framerusercontent.com/images/MMcpZBO6Jsad3ot5SpG62atmaAo.png",socialImage:"https://framerusercontent.com/images/KwUUFbl7YGkSYaDwZ2xDfo.png",title:"Waitlister - Premium Waitlist Framer Template"}}export{t as a};
+//# sourceMappingURL=chunk-WJGWWIEG.mjs.map
